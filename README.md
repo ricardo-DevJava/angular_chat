@@ -10,7 +10,7 @@ Aplicación cliente WebSocket (chat), Está desarrollada con la tecnología Stom
   - StompJS.
 
 ### Documentación completa:
-descripcionProyecto_es.pdf
+descripcionProyectoAngular_es.pdf
 
 
 # Description English:
