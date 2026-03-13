@@ -1,9 +1,31 @@
 Descripción Español:
 
-Para revisar la descripción del proyecto por favor ir al archivo descripcionProyectoAngular_es.pdf.
-Gracias.
+Proyecto: Chat con WebSocket – Angular
 
-Description in English:
+Descripción:
+Aplicación cliente WebSocket (chat), Está desarrollada con la tecnología StompJS and Angular, representa la capa de presentación.
 
-To review the description of project open the file descriptionProjectAngular_en.pdf.
-Thank you.
+Tecnologías:
+  - Angular
+  - StompJS.
+
+Documentación completa:
+descripcionProyecto_es.pdf
+
+
+Description English:
+
+Project: Chat with WebSocket – Angular
+
+Description:
+Client application WebSocket (chat), built with StompJS and Angular technology, represent of Front-end layer.
+
+Technologies:
+  - Angular
+  - StompJS.
+
+Full documentation:
+descriptionProjectAngular_en.pdf
+
+
+
